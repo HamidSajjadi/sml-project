@@ -1,0 +1,58 @@
+{
+    "precision": {
+        "rank_test_precision": 1,
+        "mean_test_precision": 0.8620124624289529,
+        "std_test_precision": 0.02587888408113185,
+        "rank_test_recall": 220,
+        "mean_test_recall": 0.8356687898089172,
+        "std_test_recall": 0.04890790782280882,
+        "rank_test_f1": 208,
+        "mean_test_f1": 0.847556084565589,
+        "std_test_f1": 0.02452751614359224,
+        "rank_test_accuracy": 196,
+        "mean_test_accuracy": 0.7738108509847639,
+        "std_test_accuracy": 0.03267757636759
+    },
+    "recall": {
+        "rank_test_precision": 196,
+        "mean_test_precision": 0.8224661430627229,
+        "std_test_precision": 0.024373668101048768,
+        "rank_test_recall": 1,
+        "mean_test_recall": 0.9312101910828027,
+        "std_test_recall": 0.02528590221819007,
+        "rank_test_f1": 21,
+        "mean_test_f1": 0.8728967060122681,
+        "std_test_f1": 0.011099228629728916,
+        "rank_test_accuracy": 44,
+        "mean_test_accuracy": 0.7949832775919733,
+        "std_test_accuracy": 0.019503034850062963
+    },
+    "f1": {
+        "rank_test_precision": 189,
+        "mean_test_precision": 0.8373930193528913,
+        "std_test_precision": 0.031311311672705004,
+        "rank_test_recall": 27,
+        "mean_test_recall": 0.9235668789808917,
+        "std_test_recall": 0.04431217103420658,
+        "rank_test_f1": 1,
+        "mean_test_f1": 0.8770176070789203,
+        "std_test_f1": 0.014773702210138453,
+        "rank_test_accuracy": 8,
+        "mean_test_accuracy": 0.8045847268673354,
+        "std_test_accuracy": 0.022619147489873637
+    },
+    "accuracy": {
+        "rank_test_precision": 17,
+        "mean_test_precision": 0.8595224962423191,
+        "std_test_precision": 0.021924781503362786,
+        "rank_test_recall": 44,
+        "mean_test_recall": 0.8955414012738855,
+        "std_test_recall": 0.03408684881594815,
+        "rank_test_f1": 8,
+        "mean_test_f1": 0.8764002423094442,
+        "std_test_f1": 0.011183103546925149,
+        "rank_test_accuracy": 1,
+        "mean_test_accuracy": 0.8094156447417316,
+        "std_test_accuracy": 0.015600510632954822
+    }
+}
